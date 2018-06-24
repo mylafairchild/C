@@ -1,3 +1,4 @@
+//Search for openings to schedule a resource
 //This is from Microsofts example scripts, https://msdn.microsoft.com/en-us/library/gg334219.aspx
 
 using System;
